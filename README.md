@@ -8,7 +8,7 @@
 <br>
 <p> </p>
 
-- <h2  align="center" > Hi there 👋 Nice to see you :) </h2>
+- <h3  align="center" > Hi there 👋 Nice to see you :) </h3>
 
 - <h3 > I’m a - Front-End Developer</h3>
 
