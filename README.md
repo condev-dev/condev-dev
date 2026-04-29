@@ -8,8 +8,8 @@
 <br>
 <p> </p>
 
-- <h3  align="center" > Hi there 👋 Nice to see you :) </h3>
-
+- <h3 > Hi there 👋 Nice to see you :) </h3>
+<hr/>
 - <h3 > I’m a - Front-End Developer</h3>
 
 - My Resume: [condev_EN](https://condevtp.github.io/Portfolio/#/en) [condev_FA](https://condevtp.github.io/Portfolio/#/fa) 
