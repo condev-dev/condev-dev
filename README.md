@@ -12,7 +12,7 @@
 
 - <h3 > I’m a - Front-End Developer</h3>
 
-- My Resume: [condev_EN](https://condevtp.github.io/Portfolio/#/en) [condev_FA](https://condevtp.github.io/Portfolio/#/fa) 
+- My Resume: [condev_EN](https://condev-dev.github.io/Portfolio/#/en) [condev_FA](https://condev-dev.github.io/Portfolio/#/fa) 
 
 - I’m currently workings on: [templates-store](https://github.com/condev-dev/templates-store.git)
 
