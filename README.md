@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/condev-dev/Portfolio/refs/heads/main/src/assets/img/logo.webp" style="width: 40%;" alt="Con Dev" >
 </p>
 <p align="center" style="max-width:200px; margin:auto; ">
-<img src="https://raw.githubusercontent.com/condev-dev/Portfolio/refs/heads/main/src/assets/img/logo-condev.webp" style="width: 55%;" alt="Con Dev" >
+<img src="https://cv.condev.ir/static/media/logo-condev.1485202f975edb65c1c9.webp" style="width: 55%;" alt="Con Dev" >
 </p>
 
 <br>
